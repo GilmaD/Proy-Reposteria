@@ -1,0 +1,15 @@
+C:\Users\Laptop\Documents\L4\Proy-Reposteria\Reposteria\Reposteria.Win\bin\Debug\Reposteria.Win.exe.config
+C:\Users\Laptop\Documents\L4\Proy-Reposteria\Reposteria\Reposteria.Win\bin\Debug\Reposteria.Win.exe
+C:\Users\Laptop\Documents\L4\Proy-Reposteria\Reposteria\Reposteria.Win\bin\Debug\Reposteria.Win.pdb
+C:\Users\Laptop\Documents\L4\Proy-Reposteria\Reposteria\Reposteria.Win\bin\Debug\Reposteria.BL.dll
+C:\Users\Laptop\Documents\L4\Proy-Reposteria\Reposteria\Reposteria.Win\bin\Debug\Reposteria.BL.pdb
+C:\Users\Laptop\Documents\L4\Proy-Reposteria\Reposteria\Reposteria.Win\obj\Debug\Reposteria.Win.csprojResolveAssemblyReference.cache
+C:\Users\Laptop\Documents\L4\Proy-Reposteria\Reposteria\Reposteria.Win\obj\Debug\Reposteria.Win.Form1.resources
+C:\Users\Laptop\Documents\L4\Proy-Reposteria\Reposteria\Reposteria.Win\obj\Debug\Reposteria.Win.Properties.Resources.resources
+C:\Users\Laptop\Documents\L4\Proy-Reposteria\Reposteria\Reposteria.Win\obj\Debug\Reposteria.Win.csproj.GenerateResource.Cache
+C:\Users\Laptop\Documents\L4\Proy-Reposteria\Reposteria\Reposteria.Win\obj\Debug\Reposteria.Win.exe
+C:\Users\Laptop\Documents\L4\Proy-Reposteria\Reposteria\Reposteria.Win\obj\Debug\Reposteria.Win.pdb
+C:\Users\Laptop\Documents\L4\Proy-Reposteria\Reposteria\Reposteria.Win\bin\Debug\EntityFramework.dll
+C:\Users\Laptop\Documents\L4\Proy-Reposteria\Reposteria\Reposteria.Win\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Laptop\Documents\L4\Proy-Reposteria\Reposteria\Reposteria.Win\bin\Debug\EntityFramework.xml
+C:\Users\Laptop\Documents\L4\Proy-Reposteria\Reposteria\Reposteria.Win\bin\Debug\EntityFramework.SqlServer.xml
